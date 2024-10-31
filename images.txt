@@ -8,3 +8,4 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 rustdesk/rustdesk-server
+r/alfio/alf.io/tags
