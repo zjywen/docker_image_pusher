@@ -7,5 +7,5 @@
 #nyanmisaka/jellyfin
 #linuxserver/jackett
 #allanpk716/chinesesubfinder
-#rustdesk/rustdesk-server
+rustdesk/rustdesk-server
 alfio/alf.io
