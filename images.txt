@@ -8,4 +8,4 @@
 #linuxserver/jackett
 #allanpk716/chinesesubfinder
 #rustdesk/rustdesk-server
-hub.docker.com/r/alfio/alf.io/tags
+alfio/alf.io
