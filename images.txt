@@ -10,3 +10,4 @@
 rustdesk/rustdesk-server
 alfio/alf.io
 jeessy/ddns-go
+minio/minio
