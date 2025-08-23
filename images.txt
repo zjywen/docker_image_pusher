@@ -10,7 +10,7 @@
 rustdesk/rustdesk-server
 alfio/alf.io
 jeessy/ddns-go
-minio/minio
+minio/minio:alpine
 openwrt/rootfs
 openwrt/imagebuilder
-quay.io/minio/aistor/minio
+quay.io/minio/minio:alpine
