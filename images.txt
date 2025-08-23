@@ -12,5 +12,5 @@
 #jeessy/ddns-go
 #openwrt/rootfs
 #openwrt/imagebuilder
-minio/minio:RELEASE.2022-10-29T06-21-33Z
-
+#minio/minio:RELEASE.2022-10-29T06-21-33Z
+quay.io/minio/minio:alpine
