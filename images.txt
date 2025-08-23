@@ -7,10 +7,10 @@
 #nyanmisaka/jellyfin
 #linuxserver/jackett
 #allanpk716/chinesesubfinder
-rustdesk/rustdesk-server
-alfio/alf.io
-jeessy/ddns-go
-openwrt/rootfs
-openwrt/imagebuilder
-minio/minio:RELEASE.2023-03-20T20-16-18Z
+#rustdesk/rustdesk-server
+#alfio/alf.io
+#jeessy/ddns-go
+#openwrt/rootfs
+#openwrt/imagebuilder
+minio/minio:RELEASE.2022-10-29T06-21-33Z
 
