@@ -13,4 +13,4 @@
 #openwrt/rootfs
 #openwrt/imagebuilder
 #minio/minio:RELEASE.2022-10-29T06-21-33Z
-quay.io/minio/minio:alpine
+quay.io/minio/aistor/minio
