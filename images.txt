@@ -10,7 +10,7 @@
 rustdesk/rustdesk-server
 alfio/alf.io
 jeessy/ddns-go
-minio/minio:alpine
 openwrt/rootfs
 openwrt/imagebuilder
-quay.io/minio/minio:alpine
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+minio/minio:RELEASE.2022-10-29T06-21-33Z
