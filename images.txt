@@ -13,3 +13,4 @@ jeessy/ddns-go
 minio/minio
 openwrt/rootfs
 openwrt/imagebuilder
+quay.io/minio/aistor/minio
